@@ -1,0 +1,14 @@
+{
+  "name": "clase-mysql",
+  "version": "1.0.0",
+  "description": "ejemplo práctico de node + mysql",
+  "main": "index.js",
+  "keywords": [
+    "node",
+    "mysql"
+  ],
+  "type": "module",
+  "dependencies": {
+    "mysql2": "^3.24.6"
+  }
+}
